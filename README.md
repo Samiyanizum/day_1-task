@@ -1,1 +1,1 @@
-learning Git and Github
+This is my first Django project.
